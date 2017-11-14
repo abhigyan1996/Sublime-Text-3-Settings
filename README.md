@@ -17,5 +17,5 @@ My saved configs/plugins and code snippets _(especially for Java)_ for [Sublime 
 
 ## Key Snippets
 
-* `fast+cmd` to import the FastReader snippet of Java.
-* `imp+cmd` to import all the packages for Java. 
+* `fast+tab` to import the FastReader snippet of Java.
+* `imp+tab` to import all the packages for Java. 
